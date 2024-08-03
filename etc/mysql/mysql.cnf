@@ -1,0 +1,8 @@
+# 2024-08-03 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 1.1) "«update-alternatives: error: alternative path /etc/mysql/mysql.cnf doesn't exist»
+# in `var/log/unattended-upgrades-dpkg.log`": https://github.com/27estore/192.241.193.5/issues/35
+# 1.2) "How did I fix «update-alternatives: error: alternative path /etc/mysql/mysql.cnf doesn't exist»? ":
+# https://df.tips/t/2231
+# 2) "[MySQL] «[System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>»":
+# https://github.com/27estore/192.241.193.5/issues/33
+# 3) "MySQL became down once a day": https://github.com/27estore/192.241.193.5/issues/29
